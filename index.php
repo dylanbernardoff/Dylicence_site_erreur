@@ -27,6 +27,7 @@
 									<a href='#' style='color:#ffff;'>Contactez le service client</a> 
 								</li><br>
 							</ul> -->
+							<meta http-equiv='refresh' content='5;URL=<?php echo $_SERVER['HTTP_REFERER']; ?>'>
 						</div>
 					</div>
 				</div>
